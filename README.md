@@ -37,5 +37,3 @@ function (animal){
 * Contains a plausible collection of test cases
 * Outputs are accurately derived from inputs
 * Summary is plausible
-  * Official answer is that it describes the snout of different swamp animals. If it's an Alligator, it returns "small", otherwise it returns "wide."
-
